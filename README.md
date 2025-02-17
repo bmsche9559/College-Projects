@@ -30,7 +30,10 @@ This is a simplified version of the popular Flappy Bird game, built using Java. 
    ```sh
    git clone https://github.com/your-username/your-repo.git
    ```
-2. Open `index.html` in a web browser.
+2. Alternatively, view the live site using GitHub Pages:
+   ```
+   https://bmsche9559.github.io//
+   ```
 
 ### Flappy Bird Clone:
 1. Ensure Java is installed.
