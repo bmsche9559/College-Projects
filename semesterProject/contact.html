@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <title>Roller Coaster Enthusiast Contact</title>
+    <link rel="stylesheet" type="text/css" href="project_css.css">
+</head>
+<body>
+
+<header>
+        <h1>Welcome to Roller Coaster Database</h1>
+        <br>
+        <nav>
+            <ul>
+                <li><a style="text-decoration:none" href="project.html">Home</a></li>
+                <li class="dropdown">
+					<a style="text-decoration:none" href="javascript:void(0)">Coasters</a>
+                		<div class="dropdown-content">
+							<a style="text-decoration:none" href="coaster1.html">Steel Vengeance</a>
+							<a style="text-decoration:none" href="coaster2.html">Iron Gwazi</a>
+							<a style="text-decoration:none" href="coaster3.html">Millennium Force</a>
+							<a style="text-decoration:none" href="coaster4.html">Fury 325</a>
+							<a style="text-decoration:none" href="coaster5.html">Kingda Ka</a>
+						</div>
+					</li>
+                <li><a style="text-decoration:none" href="safety.html">Safety</a></li>
+                <li style="float:right"><a class="active" style="text-decoration:none" href="contact.html">Contact</a></li>
+            </ul>
+       	</nav>
+</header>
+<section class="main-content"><br>
+     	<h2 style="text-decoration:underline">Get In Touch</h2>
+        <p>If you have any questions about roller coasters or theme parks in general, feel free to contact us using the form below:</p>
+
+        <form action="#" method="post" id="contact-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea><br>
+
+            <input type="submit" value="Submit">
+        </form>
+        
+         <div id="success-message" class="hidden">
+            <p>Your message has been submitted successfully. We'll get back to you soon!</p>
+        </div>
+    </section><br><br><br><br><br><br><br><br>
+
+    <footer>
+        <p>&copy; 2023 Roller Coaster Enthusiast</p>
+    </footer>
+</body>
+</html>
