@@ -35,7 +35,7 @@ Listed is some quick java challenges from my Data Structure class. These are add
 ### 4. Lab_1_Databases_Bradley - SQL project
 This is a Java project in my databases class that was used to connect with a SQL server. This shows my understanding of SQL and Java integration, and my ability to update databases using a Java project.
 
-#####Technologies Used:
+##### Technologies Used:
 - Java
 - Java Swing
 
