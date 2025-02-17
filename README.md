@@ -32,7 +32,7 @@ This is a simplified version of the popular Flappy Bird game, built using Java. 
    ```
 2. Alternatively, view the live site using GitHub Pages:
    ```
-   https://bmsche9559.github.io//
+   https://bmsche9559.github.io/College-Projects/
    ```
 
 ### Flappy Bird Clone:
